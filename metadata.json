@@ -1,0 +1,6 @@
+{
+  "name": "CloudEkin Pro - Otomatisasi Bukti Dukung e-Kinerja ASN & Google Drive",
+  "description": "Aplikasi modern dan responsif untuk manajemen bukti dukung SKP/e-Kinerja ASN & Guru, terintegrasi langsung dengan Google Drive, pembuat folder otomatis, dan generator link bukti dukung siap tempel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

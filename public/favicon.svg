@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="cloudGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bgGrad)"/>
+  <rect x="16" y="16" width="480" height="480" rx="112" stroke="#334155" stroke-width="6" stroke-opacity="0.4"/>
+  <path d="M376 348H152c-46.39 0-84-37.61-84-84 0-41.6 30.34-76.12 70.36-82.52C154.26 123.6 202.82 80 260 80c54.72 0 100.84 39.92 110.15 93.3C407.72 178.68 440 209.68 440 248c0 55.23-44.77 100-100 100h36z" fill="url(#cloudGrad)"/>
+  <circle cx="340" cy="300" r="76" fill="#0f172a" stroke="#10b981" stroke-width="10"/>
+  <path d="M305 300l25 25 50-50" fill="none" stroke="#34d399" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
